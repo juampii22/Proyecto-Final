@@ -1,0 +1,99 @@
+
+[
+    {
+        "id":1,
+        "nombre": "Casco Halcon H57",
+        "precio": 8800,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_843279-MLA49666618548_042022-O.jpg",
+        "cantidad":1
+    },
+
+    {
+        "id":2,
+        "nombre": "Casco Hawk RS1",
+        "precio": 16800,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_845628-MLA32941432057_112019-O.webp",
+        "cantidad":1
+    },
+
+    {
+        "id":3,
+        "nombre": "Casco Vertigo V50",
+        "precio": 14400,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_773668-MLA51279538244_082022-O.webp",
+        "cantidad":1
+    },
+
+    {
+        "id":4,
+        "nombre": "Casco Hawk RS11",
+        "precio": 31400,
+        "imagen": "https://www.heavenimagenes.com/heavencommerce/68ac9d04-8767-4aca-9951-49f2fea1383b/images/v2/HAWK/1809180926213742_01_medium.jpg",
+        "cantidad":1
+    },
+
+    {
+        "id":5,
+        "nombre": "Casco Nzi Trendy",
+        "precio": 49500,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_696199-MLA52299470096_112022-O.jpg",
+        "cantidad":1
+    },
+
+    {
+        "id":6,
+        "nombre": "Casco LS2 Rookie 352",
+        "precio": 39999,
+        "imagen": "http://d3ugyf2ht6aenh.cloudfront.net/stores/940/460/products/352-matt-black-11-03e4c506c877b87d5a15851006817531-640-0.webp",
+        "cantidad":1
+    },
+
+    {
+        "id":7,
+        "nombre": "Casco AGV K1",
+        "precio": 108000,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_972027-MLA53367976195_012023-O.jpg",
+        "cantidad":1
+    },
+
+    {
+        "id":8,
+        "nombre": "Casco LS2 FF320",
+        "precio": 70609,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_803437-MLA47585308373_092021-O.webp",
+        "cantidad":1
+    },
+
+    {
+        "id":9,
+        "nombre": "Casco HJC I90",
+        "precio": 131000,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_898528-MLA53166584315_012023-O.webp",
+        "cantidad":1
+    },
+
+    {
+        "id":10,
+        "nombre": "Casco LS2 Motocross Mx 437",
+        "precio": 67900,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_885889-MLA51422735141_092022-O.webp",
+        "cantidad":1
+    },
+
+    {
+        "id":11,
+        "nombre": "Casco FOX Motocross V3",
+        "precio": 234999,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_816746-MLA50238320199_062022-O.webp",
+        "cantidad":1
+    },
+
+    {
+        "id":12,
+        "nombre": "Casco UFO Intrepid",
+        "precio": 47000,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_633583-MLA49001763404_022022-O.webp",
+        "cantidad":1
+    }
+
+]
